@@ -1,11 +1,6 @@
 ﻿using cb_ejercicio1.Models;
 using ClosedXML.Excel;
-using cb_ejercicio1.Data;
-using DocumentFormat.OpenXml.Spreadsheet;
-using Irony.Parsing;
-using Microsoft.AspNetCore.Mvc;
-using DocumentFormat.OpenXml.Drawing.Charts;
-using Microsoft.EntityFrameworkCore;
+
 
 namespace cb_ejercicio1.Logic
 {
